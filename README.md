@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @wildcatmidnight883
-- 👀 I’m interested in front end Web development and Mobile Development
-- 🌱 I’m currently learning Javascript and React Native
-- 💞️ I’m looking to collaborate on Web based or Mobile based projects
-- 📫 How to reach me twitter,instagram and linkedin
+- 👋 Hi, My real name is Somtochi Mkparu
+ I’m interested in front end Web development
+I am currently learning javascript so that i can  move on to web frameworks like react , angular and vue.js
+
 
 <!---
 wildcatmidnight883/wildcatmidnight883 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
