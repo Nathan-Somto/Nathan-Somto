@@ -1,7 +1,15 @@
-- 👋 Hi, My real name is Somtochi Mkparu or you could call me Nathan.
-- 🤓 I’m interested in Full stack web development
-- 📚 I am currently learning express, node and mongodb  so as to complete my knowledge of the MERN stack , so that i can move on to others like MEVN , MEAN and so on.
-- 😏 for my  MERN stack projects ,stay tuned
+# Hi i'm Nathan 🤘
+
+ Self taught front end developer ,
+who is currently in his penultimate year of college
+
+## What i am learning
+
+- Javascript 😐
+- Express ☺
+- React 🤑
+- Node 😪
+- Typescript 😍
 
 ## My Stats and Streaks ⚡
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nathan-Somto&theme=synthwave)](https://git.io/streak-stats)
