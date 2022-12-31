@@ -1,9 +1,11 @@
-# Hi i'm Nathan 🤘
+content://com.android.chrome.FileProvider/images/screenshot/16724725551762133207446.jpg![image](https://user-images.githubusercontent.com/92867046/210127890-9bfafe25-4798-4e45-af15-2b278615fc52.png)
 
- Self taught front end developer ,
-who is currently in his penultimate year of college
+<h1 align ="center"> Hi i'm Nathan 🤘</h1>
 
-## What i am learning
+ <p align ="center" >Self taught front end developer ,
+who is currently in his penultimate year of college</p>
+
+## What i am learning ☘
 
 - Javascript 😐
 - Express ☺
@@ -14,7 +16,7 @@ who is currently in his penultimate year of college
 ## My Stats and Streaks ⚡
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nathan-Somto&theme=synthwave)](https://git.io/streak-stats)
 
-## My Tech Stack📚
+## My Tech Stack 📚
 
 stuff i use most of the time
 
