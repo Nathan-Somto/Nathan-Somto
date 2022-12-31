@@ -10,9 +10,9 @@
 
 stuff i use most of the time
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,js,html,css,express,tailwind,ts,nodejs,mongodb,react&theme=dark&perline=4" />
+    <img src="https://skillicons.dev/icons?i=git,c,js,html,css,express,tailwind,ts,nodejs,mongodb,react&theme=dark" />
   </a>
 </p>
 <!---
