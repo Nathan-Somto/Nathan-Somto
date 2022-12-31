@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/92867046/210128001-f659bb66-6285-4739-95b0-e1d38e1c91cc.gif)
+<img src ="https://user-images.githubusercontent.com/92867046/210128001-f659bb66-6285-4739-95b0-e1d38e1c91cc.gif" alt="a gif"/>
 
 
 <h1 align ="center"> Hi i'm Nathan 🤘</h1>
