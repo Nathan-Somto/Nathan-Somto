@@ -1,4 +1,5 @@
-content://com.android.chrome.FileProvider/images/screenshot/16724725551762133207446.jpg![image](https://user-images.githubusercontent.com/92867046/210127890-9bfafe25-4798-4e45-af15-2b278615fc52.png)
+![image](https://user-images.githubusercontent.com/92867046/210128001-f659bb66-6285-4739-95b0-e1d38e1c91cc.png)
+
 
 <h1 align ="center"> Hi i'm Nathan 🤘</h1>
 
