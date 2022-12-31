@@ -29,6 +29,11 @@ stuff i use most of the time
 ## My Top Langauges 👨‍💻🤓
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Somto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+### As you depart
+
+ [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&pause=1000&color=5023F7&center=true&vCenter=true&width=435&lines=May+the+force+be+with+you)](https://git.io/typing-svg)
+ 
 <!---
 wildcatmidnight883/wildcatmidnight883 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
