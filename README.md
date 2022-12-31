@@ -16,7 +16,7 @@ stuff i use most of the time
   </a>
 </p>
 
-[Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nathan-Somto&show_icons=true&theme=synthwave)
+[![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nathan-Somto&show_icons=true&theme=synthwave)]
 <!---
 wildcatmidnight883/wildcatmidnight883 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
