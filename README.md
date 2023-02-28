@@ -23,7 +23,7 @@ stuff i use most of the time
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,js,html,css,express,tailwind,ts,nodejs,mongodb,react,reactnative,nextjs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,c,js,html,css,express,tailwind,ts,nodejs,mongodb,react,reactNative,nextjs&theme=dark" />
   </a>
 </p>
 
