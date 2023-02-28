@@ -12,6 +12,7 @@ who is currently in his penultimate year of college</p>
 - React 🤑
 - Node 😪
 - Typescript 😍
+- React Native
 
 ## My Stats and Streaks ⚡
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nathan-Somto&theme=synthwave)](https://git.io/streak-stats)
@@ -22,7 +23,7 @@ stuff i use most of the time
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,js,html,css,express,tailwind,ts,nodejs,mongodb,react&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,c,js,html,css,express,tailwind,ts,nodejs,mongodb,react,reactnative,nextjs&theme=dark" />
   </a>
 </p>
 
