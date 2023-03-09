@@ -19,7 +19,7 @@
 
 ## My Tech Stack 📚
 
-Stuff i use most of the time
+
 
 <p align="left">
   <a href="https://skillicons.dev">
