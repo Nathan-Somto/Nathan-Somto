@@ -9,8 +9,6 @@ Currently in my third year of university, I have a strong foundation in computer
  Let's <a href='https://www.linkedin.com/in/somtochi-mkparu-elnathan/'>connect</a> and collaborate on some exciting projects together!</p>
 
 ## My Skill Sets 
-
-<img src='https://cdn.pixabay.com/animation/2022/10/27/12/59/12-59-10-594_512.gif' align='center' height ='300px' width='300px'/>
 - Javascript 
 - Express 
 - React 
