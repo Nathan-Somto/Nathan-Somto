@@ -1,17 +1,21 @@
 
 
-<h1 align ="center"> Hi i'm Nathan 🤘</h1>
+<h1 align ="center"> Hi there! I'm Somto 👋</h1>
 
- <p align ="center" >Self taught front end developer ,
-who is currently in his penultimate year of college</p>
+ <p align ="center" >A passionate full stack developer with a focus on the MERN stack (MongoDB, Express, React, Node.js).
 
-## What i am learning ☘
+Currently in my third year of university, I have a strong foundation in computer science principles and I’m always looking to learn and grow in my field. I love building elegant and efficient web applications that solve real-world problems, and I take pride in my attention to detail and ability to write clean, maintainable code. When I'm not coding, you can find me reading, or exploring new technologies.
 
-- Javascript 😐
-- Express ☺
-- React 🤑
-- Node 😪
-- Typescript 😍
+ Let's <a href='https://www.linkedin.com/in/somtochi-mkparu-elnathan/'>connect</a> and collaborate on some exciting projects together!</p>
+
+## My Skill Sets 
+
+<img src='https://cdn.pixabay.com/animation/2022/10/27/12/59/12-59-10-594_512.gif' align='center' height ='300px' width='300px'/>
+- Javascript 
+- Express 
+- React 
+- Node 
+- Typescript 
 - React Native
 
 ## My Stats and Streaks ⚡
