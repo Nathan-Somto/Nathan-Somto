@@ -1,18 +1,22 @@
 
 
 <h1 align ="center"> Hi there! I'm Somto 👋</h1>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nathan-somto&label=Profile%20views&color=0e75b6&style=flat" alt="nathan-somto" /> </p>
  <p align ="center" >A passionate full stack developer with a focus on the MERN stack (MongoDB, Express, React, Node.js). Currently in my third year of university, I have a strong foundation in computer science principles and I’m always looking to learn and grow in my field. I love building elegant and efficient web applications that solve real-world problems, and I take pride in my attention to detail and ability to write clean, maintainable code. When I'm not coding, you can find me reading, or exploring new technologies.
 
  Let's <a href='https://www.linkedin.com/in/somtochi-mkparu-elnathan/'>connect</a> and collaborate on some exciting projects together!</p>
 
-## My Skill Sets 
-- Javascript 
-- Express 
-- React 
-- Node 
-- Typescript 
-- React Native
+## Fun Facts
+
+- 🔭 I’m currently working on [Netflix-clone](https://github.com/Nathan-Somto/Nextflix-clone)
+
+- 🌱 I’m currently learning **Typescript**
+
+- 💬 Ask me about **react, javascript or typescript**
+
+- 📫 How to reach me **mkparusomtochi26@gmail.com**
+
+- ⚡ Fun fact **I am a lover of all sports ⚽️⚾️🏀🏐🏈🏉🎾🥊🏌️‍♂️🏎**
 
 ## My Stats and Streaks ⚡
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nathan-Somto&theme=synthwave)](https://git.io/streak-stats)
