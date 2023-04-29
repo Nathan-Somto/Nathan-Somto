@@ -18,19 +18,29 @@
 
 - ⚡ Fun fact **I am a lover of all sports ⚽️⚾️🏀🏐🏈🏉🎾🥊🏌️‍♂️🏎**
 
-## My Stats and Streaks ⚡
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nathan-Somto&theme=synthwave)](https://git.io/streak-stats)
-
 ## My Tech Stack 📚
 
 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,js,html,css,express,tailwind,sass,ts,nodejs,mongodb,react,nextjs&theme=dark" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=git,c,js,html,css,express,tailwind,sass,ts,jest,nodejs,mongodb,firebase,redux,react,nextjs&theme=dark" />  </a>
 </p>
 
+
+## Connect with me:
+
+
+<p align="left">
+<a href="https://twitter.com/nathan_somto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nathan_somto" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/somtochi-mkparu-elnathan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/somtochi-mkparu-elnathan/" height="30" width="40" /></a>
+<a href="https://instagram.com/nathan_somto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nathan_somto" height="30" width="40" /></a>
+</p>
+
+## My Stats and Streaks ⚡
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nathan-Somto&theme=synthwave)](https://git.io/streak-stats)
+
+ 
 ![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nathan-Somto&show_icons=true&theme=synthwave)
 
 ## My Top Langauges 👨‍💻🤓
