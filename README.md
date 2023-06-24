@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [house-marketplace](https://github.com/Nathan-Somto/house-marketplace)
 
-- 🌱 I’m currently learning **Typescript, Zustand**
+- 🌱 I’m currently learning **Typescript, React Native.**
 
 - 💬 Ask me about **react, javascript or typescript**
 
