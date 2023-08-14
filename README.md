@@ -2,15 +2,18 @@
 
 <h1 align ="center"> Hi there! I'm Somto 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathan-somto&label=Profile%20views&color=0e75b6&style=flat" alt="nathan-somto" /> </p>
- <p align ="center" >A passionate front-end developer with a focus on the Latest and greatest Front end technologies such as React, Next js ,Tailwind Css and React Native. Currently in my third year of university, I have a strong foundation in computer science principles and I’m always looking to learn and grow in my field. I love building elegant and efficient web applications that solve real-world problems, and I take pride in my attention to detail and ability to write clean, maintainable code. When I'm not coding, you can find me watching sport games or analyzing film theory.
+ <p align ="center" >A passionate Front End developer with a focus on the Latest and greatest Front end technologies such as React, Next 
+ js ,Tailwind Css and React Native. When I'm not coding, you can find me watching sport games or analyzing film theory. 
+  
+  <strong>Die hard Arsenal Fan :red_circle:  <img alt="arsenal logo" src="https://github.com/Nathan-Somto/Nathan-Somto/assets/92867046/0ce7a220-03b0-4c0d-bb5c-c86ef1df2e26" height="20" width="20"/> </strong>
 
  Let's <a href='https://www.linkedin.com/in/somtochi-mkparu-elnathan/'>connect</a> and collaborate on some exciting projects together!</p>
 
 ## Fun Facts
 
-- 🔭 I’m currently working on [Job-Finder-RN](https://github.com/Nathan-Somto/)
+- 🔭 I’m currently working on [Twitter-Clone](https://github.com/Nathan-Somto/) **Not Open Sourced yet**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **MongoDb**
 
 - 💬 Ask me about **react, javascript or typescript**
 
