@@ -2,7 +2,7 @@
 
 <h1 align ="center"> Hi there! I'm Somto 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathan-somto&label=Profile%20views&color=0e75b6&style=flat" alt="nathan-somto" /> </p>
- <p align ="center" >A passionate Front End developer with a focus on the Latest and greatest Front end technologies such as React, Next 
+ <p align ="center" >A passionate Front End developer with a focus on the Latest and Greatest Front end technologies such as React, Next 
  js ,Tailwind Css and React Native. When I'm not coding, you can find me watching sport games or analyzing film theory. 
   
   <strong>Die hard Arsenal Fan :red_circle:  <img alt="arsenal logo" src="https://github.com/Nathan-Somto/Nathan-Somto/assets/92867046/0ce7a220-03b0-4c0d-bb5c-c86ef1df2e26" height="20" width="20"/> </strong>
