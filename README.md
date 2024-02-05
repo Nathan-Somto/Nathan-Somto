@@ -11,9 +11,9 @@
 
 ## Fun Facts
 
-- 🔭 I’m currently working on [Twitter-Clone](https://github.com/Nathan-Somto/) **Not Open Sourced yet**
+- 🔭 I’m currently working on [Chatly](https://github.com/Nathan-Somto/Chatly) **Not Open Sourced yet**
 
-- 🌱 I’m currently learning **MongoDb**
+- 🌱 I’m currently learning **NextJs 14**
 
 - 💬 Ask me about **react, javascript or typescript**
 
