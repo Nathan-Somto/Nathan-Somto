@@ -11,7 +11,7 @@
 
 ## Fun Facts
 
-- 🔭 I’m currently working on [Chatly](https://github.com/Nathan-Somto/Chatly) **Not Open Sourced yet**
+- 🔭 I’m currently working on [code-tutor](https://github.com/Nathan-Somto/code-tutor)
 
 - 🌱 I’m currently learning **NextJs 14**
 
@@ -27,7 +27,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,js,html,css,express,tailwind,sass,ts,jest,nodejs,mongodb,firebase,redux,react,nextjs&theme=dark" />  </a>
+    <img src="https://skillicons.dev/icons?i=git,c,js,ts,py,html,css,express,tailwind,sass,ts,jest,nodejs,mongodb,firebase,redux,prisma,vue,react,nextjs&theme=dark" />  </a>
 </p>
 
 
