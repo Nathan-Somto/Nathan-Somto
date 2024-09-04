@@ -11,9 +11,9 @@
 
 ## Fun Facts
 
-- 🔭 I’m currently working on [code-tutor](https://github.com/Nathan-Somto/code-tutor)
+- 🔭 I’m currently working on [forge-gen](https://github.com/Nathan-Somto/forge-gen)
 
-- 🌱 I’m currently learning **NextJs 14**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **react, javascript or typescript**
 
