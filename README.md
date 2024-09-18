@@ -11,7 +11,7 @@
 
 ## Fun Facts
 
-- 🔭 I’m currently working on [forge-gen](https://github.com/Nathan-Somto/forge-gen)
+- 🔭 I’m currently working on [vidi-meet](https://github.com/Nathan-Somto/vidi-meet)
 
 - 🌱 I’m currently learning **React Native**
 
