@@ -5,15 +5,14 @@
  <p align ="center" >A passionate Front End developer with a focus on the Latest and Greatest Front end technologies such as React, Next 
  js ,Tailwind Css and React Native. When I'm not coding, you can find me watching sport games or analyzing film theory. 
   
-  <strong>Die hard Arsenal Fan :red_circle:  <img alt="arsenal logo" src="https://github.com/Nathan-Somto/Nathan-Somto/assets/92867046/0ce7a220-03b0-4c0d-bb5c-c86ef1df2e26" height="20" width="20"/> </strong>
-
- Let's <a href='https://www.linkedin.com/in/somtochi-mkparu-elnathan/'>connect</a> and collaborate on some exciting projects together!</p>
+  <strong>Die hard Arsenal Fan 🔫  <img alt="arsenal logo" src="https://github.com/Nathan-Somto/Nathan-Somto/assets/92867046/0ce7a220-03b0-4c0d-bb5c-c86ef1df2e26" height="20" width="20"/> </strong>
+<p> Check out my <a href='https://somtochi-dev.vercel.app/'>portfolio</a> to see the amazing projects i have built.</p>
 
 ## Fun Facts
 
-- 🔭 I’m currently working on [vidi-meet](https://github.com/Nathan-Somto/vidi-meet)
+- 🔭 I’m currently working on [designr](https://github.com/Nathan-Somto/designr)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Front-End Development**
 
 - 💬 Ask me about **react, javascript or typescript**
 
